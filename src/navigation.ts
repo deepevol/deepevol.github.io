@@ -32,7 +32,7 @@ export const footerData = {
       title: 'Société',
       links: [
         { text: 'À propos', href: '#' },
-        { text: 'Nous contacter', href: '#' },
+        { text: 'Nous contacter', href: 'mailto:deepevolutiondz@gmail.com'},
       ],
     },
   ],
@@ -47,6 +47,7 @@ export const footerData = {
   footNote: `
     <strong>Deep Evolution Systems</strong><br />
     Blida, Algérie<br />
+    ✉️ <a href="mailto:deepevolutiondz@gmail.com" class="hover:underline">deepevolutiondz@gmail.com</a><br />
     Déploiement d'architectures logicielles industrielles. Tous droits réservés.
   `,
 };
