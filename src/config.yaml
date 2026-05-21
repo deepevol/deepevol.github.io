@@ -9,7 +9,7 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: Deep Evolution Systems
+    default: Deep Evolution Systems | Architectures ERP & Automatisation
     template: '%s — AstroWind'
   description: "\U0001F680 Expertise en déploiement ERP, personaliation, optimisation, automatisation et gestion de production industrielle."
   robots:
