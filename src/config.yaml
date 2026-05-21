@@ -1,6 +1,6 @@
 site:
-  name: AstroWind
-  site: 'https://astrowind.vercel.app'
+  name: Deep Evolution Systems
+  site: 'https://deepevol.github.io'
   base: '/'
   trailingSlash: false
 
@@ -9,14 +9,14 @@ site:
 # Default SEO metadata
 metadata:
   title:
-    default: AstroWind
+    default: Deep Evolution Systems
     template: '%s — AstroWind'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "\U0001F680 Expertise en déploiement ERP, personaliation, optimisation, automatisation et gestion de production industrielle."
   robots:
     index: true
     follow: true
   openGraph:
-    site_name: AstroWind
+    site_name: Deep Evolution Systems
     images:
       - url: '~/assets/images/default.png'
         width: 1200
