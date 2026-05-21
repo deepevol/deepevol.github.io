@@ -15,9 +15,7 @@ export const headerData = {
       href: '#contact', // Ou mettez un lien vers un formulaire/email si vous en avez un
     },
   ],
-  actions: [
-    { type: 'button', text: 'Espace Client', href: '#' }, // Optionnel : à supprimer ou modifier selon vos besoins
-  ],
+  actions: [],
 };
 
 export const footerData = {
